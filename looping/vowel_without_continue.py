@@ -5,7 +5,6 @@
 # E.g Python - Pythn
 name = input("Enter your name: ")
 for char in name.lower():
-    if char in 'aeiou':
-        continue
-    print(char, end='')
+    if char not in 'aeiou':
+        print(char, end='')
 
