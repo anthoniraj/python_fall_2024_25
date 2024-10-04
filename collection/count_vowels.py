@@ -1,5 +1,5 @@
 '''
-
+Count number of vowels in a given name
 Input: Programming
 output: {'a':1, 'e': 0, 'i': 1, 'o':1, 'u':0}
 '''
