@@ -1,0 +1,5 @@
+file = open('student_info1.txt', 'r')
+content_full = file.read()
+content = file.readlines()
+print(content)
+file.close()
