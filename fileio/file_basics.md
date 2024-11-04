@@ -9,4 +9,3 @@ Plain Text File
         Append content at the end of the File write(content)(a)
         Close it Properly close()
 Handling Error in Python (Exception Handling)
-C:\Users\antho\Documents\gitws\python_fall_2024_25\fileio\student_info.txt
