@@ -13,7 +13,10 @@
 ## Lambda Function
 - In Python, a lambda function is an anonymous, one-line function defined with the lambda keyword.
 - Unlike a regular function created with def, a lambda function has no name and is limited to a single expression.
-
+- Syntax
+```python
+lambda arguments: expression
+```
 ### Example-1: Multiplying Value by 2 (Normal Function vs Lambda)
 ### Example-2: For Math Equation (Normal Function vs Lambda)
 ### Example-3: For Collections Sorting (sorted) and Filtering (filter)
